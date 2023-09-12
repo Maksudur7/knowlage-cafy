@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/rHzgp39/2.png",
+        "title": "Exploring the Wonders of Nature",
+        "img": "https://i.ibb.co/stwRZFP/boy1.png",
+        "reading_time": "10 minutes",
+        "author": "Alice Johnson",
+        "posted_date": "2023-09-12",
+        "property": "Science"
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/zN3yqSb/1.jpg",
+        "title": "The Art of Cooking: A Culinary Adventure",
+        "img": "https://i.ibb.co/QCHLqvQ/boy2.jpg",
+        "reading_time": "15 minutes",
+        "author": "John Smith",
+        "posted_date": "2023-09-10",
+        "property": "Food & Cooking"
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/N92pgcR/3.png",
+        "title": "Traveling the World: A Journey of a Lifetime",
+        "img": "https://i.ibb.co/3yHT1h3/girl1.jpg",
+        "reading_time": "20 minutes",
+        "author": "Emily Parker",
+        "posted_date": "2023-09-08",
+        "property": "Travel"
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/58qh3sZ/4.jpg",
+        "title": "Financial Planning for a Secure Future",
+        "img": "https://i.ibb.co/qdRtxkK/girl2.jpg",
+        "reading_time": "12 minutes",
+        "author": "David Wilson",
+        "posted_date": "2023-09-06",
+        "property": "Finance"
+    }
+]
