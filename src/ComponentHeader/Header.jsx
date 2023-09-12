@@ -1,10 +1,11 @@
-
+import profile from '../blocks/profile.png'
 
 const Header = () => {
     return (
-        <div>
+        <header className='flex items-center justify-between p-4 mx-4 border-b-2'>
             <h1 className='text-3xl font-extrabold'>Knowlage Cafy</h1>
-        </div>
+            <img src={profile} alt="" />
+        </header>
     );
 };
 

@@ -6,14 +6,14 @@ import { useState } from "react";
 const Blocks = () => {
     const [block, setblock] = useState([])
 
-    useEffect(()=>{
+    useEffect(() => {
         fetch('data.json')
-        .then(res => res.json())
-        .then(data => console.log(data))
-    },[])
+            .then(res => res.json())
+            .then(data => setblock(data))
+    }, [])
     return (
-        <div>
-            
+        <div className="w-2/3">
+           <h1 className="text-4xl">blocks: {block.length}</h1>
         </div>
     );
 };
